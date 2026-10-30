@@ -1,0 +1,4 @@
+aiofiles
+httpx
+Pillow
+requests
